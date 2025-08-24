@@ -82,8 +82,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Raed108/Raed108/output/snake.svg" alt="Snake animation" />
-
-###
